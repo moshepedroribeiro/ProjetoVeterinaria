@@ -1,0 +1,11 @@
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\bin\Debug\ProjetoVet.exe.config
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\bin\Debug\ProjetoVet.exe
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\bin\Debug\ProjetoVet.pdb
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.csprojAssemblyReference.cache
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.Inicial.resources
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.Properties.Resources.resources
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.csproj.GenerateResource.cache
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.csproj.CoreCompileInputs.cache
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.exe
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.pdb
+C:\Users\Moisés Ribeiro\source\repos\ProjetoVet\obj\Debug\ProjetoVet.TipoProprietarioView.resources

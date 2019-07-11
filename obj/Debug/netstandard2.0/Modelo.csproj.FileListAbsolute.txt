@@ -1,0 +1,9 @@
+C:\Users\Moisés Ribeiro\source\repos\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Moisés Ribeiro\source\repos\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Moisés Ribeiro\source\repos\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Moisés Ribeiro\source\repos\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
